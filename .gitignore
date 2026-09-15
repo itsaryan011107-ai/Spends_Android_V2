@@ -1,12 +1,3 @@
-# Local and generated Android files
-.gradle/
-build/
-app/build/
-capacitor-android/build/
-capacitor-cordova-android-plugins/build/
-local.properties
-*.iml
-.idea/
 # Using Android gitignore template: https://github.com/github/gitignore/blob/HEAD/Android.gitignore
 
 # Built application files
